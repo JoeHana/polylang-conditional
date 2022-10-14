@@ -1,5 +1,5 @@
 {
-  "name": "JoeHana/polylang-conditional",
+  "name": "joehana/polylang-conditional",
   "description": "Provides a Function and a Shortcode to check against the current active language.",
   "license": "GPL-2.0",
   "authors": [
